@@ -11,11 +11,13 @@ This Python script allows you to record video from your `webcam` and provides si
 
 ## Preview
 
+![imageonline-co-emojiadded](https://github.com/Vivek02Sharma/cam-recorder/assets/112774647/b0c01bfc-51ac-4856-88ec-387854a53d1d)
+
 ## How to Use
 
 1.Clone this repository to your local machine.
 ```bash
-
+git clone https://github.com/Vivek02Sharma/cam-recorder.git
 ```
 2.Ensure you have Python installed.
 
