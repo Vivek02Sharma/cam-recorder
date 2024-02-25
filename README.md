@@ -21,7 +21,10 @@ git clone https://github.com/Vivek02Sharma/cam-recorder.git
 ```
 2.Ensure you have Python installed.
 
-3.Install the required libraries using `pip install -r requirements.txt`.
+3.Install the required libraries using 
+```bash
+pip install opencv-python
+```
 
 4.Run the script using python `main.py`
 
