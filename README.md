@@ -2,6 +2,10 @@
 
 This Python script allows you to record video from your `webcam` and provides simple functionalities like `starting/stopping` recording and getting help. It's a straightforward tool that can be handy for various purposes, such as recording tutorials, capturing memorable moments, or debugging computer vision applications.
 
+## Application link
+
+[cam recorder.exe](https://github.com/Vivek02Sharma/cam-recorder-exe-file.git)
+
 ## Features
 1.Recording Control: Press `'R'` to start/stop recording.
 
